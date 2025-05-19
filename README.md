@@ -9,9 +9,9 @@ Jupyter notebook version of the awesome [graph tutorial](https://iaee.substack.c
 
 [Notebook 2](2-Types.ipynb): Types of graphs. Various ways of defining one.
 
-[Nb 3](3-Basic_Manipulation.ipynb): Sub-graphs (G.subgraph) <br>• Merging graphs (nx.compose, node relabel) <br>• Removing edges → islands<br>• nx.connected_components
+[Nb 3](3-Basic_manipulation—key_metrics.ipynb): Subgraphs. Merging graphs. Islands. | Key metrics: Degree, in-degree, out-degree,
 
-[Nb 4](4-Distance_and_Degree_Metrics.ipynb):	• Degree / in-degree / out-degree<br>• nx.shortest_path + length<br>• Eccentricity & Radius (longest-shortest path)
+<br>• nx.shortest_path + length<br>• Eccentricity & Radius (longest-shortest path)
 
 [Nb 5](5-Centrality.ipynb):	• Degree, Betweenness, Closeness, Eigenvector centrality <br>• Side-by-side plots with variable node sizes
 
