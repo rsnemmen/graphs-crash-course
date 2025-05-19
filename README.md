@@ -1,6 +1,6 @@
 # Crash course on *graphs*
 
-Jupyter notebook version of [tutorial](https://iaee.substack.com/p/graphs-intuitively-and-exhaustively) from the [intuitively and exhaustively explained blog](https://iaee.substack.com).
+Jupyter notebook version of the awesome [graph tutorial](https://iaee.substack.com/p/graphs-intuitively-and-exhaustively) from the [intuitively and exhaustively explained blog](https://iaee.substack.com). Fixed a couple of typos in the text and code.
 
 
 ## Notebooks TBD
